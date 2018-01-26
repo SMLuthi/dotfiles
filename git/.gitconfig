@@ -1,0 +1,14 @@
+[user]
+	name = Silvio Luthi
+	email = swisstifer@gmail.com
+
+[push]
+	default = matching
+
+[alias]
+	logg = log --oneline --graph
+    start = "!f() { git commit --allow-empty -m \"Initial commit [branch ch$1]\"; git push origin $(git rev-parse --abbrev-ref HEAD); }; f"
+
+[core]
+	excludesfile = /Users/silvioluthi/.gitignore_global
+	editor = vim
