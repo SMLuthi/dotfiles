@@ -1,0 +1,11 @@
+{
+    "anaconda_gutter_theme": "retina",
+    "python_interpreter": "/usr/local/bin/python3",
+    "auto_python_builder_enabled": false,
+    "pep8_ignore":
+    [
+        "E501",
+        "E309"
+    ],
+    "pep257": true
+}

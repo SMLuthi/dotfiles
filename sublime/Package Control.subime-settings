@@ -1,0 +1,28 @@
+{
+    "bootstrapped": true,
+    "in_process_packages":
+    [
+    ],
+    "installed_packages":
+    [
+        "Anaconda",
+        "Base16",
+        "Dockerfile Syntax Highlighting",
+        "Emmet",
+        "Fix Mac Path",
+        "GitGutter",
+        "Indent XML",
+        "Package Control",
+        "PgSQL",
+        "ReactJS",
+        "requirementstxt",
+        "SideBarEnhancements",
+        "Solarized Color Scheme",
+        "SublimeLinter",
+        "SublimeLinter-contrib-mypy",
+        "SublimePythonIDE",
+        "Theme - Flatland",
+        "Tomorrow Color Schemes",
+        "TypeScript"
+    ]
+}
